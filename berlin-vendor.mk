@@ -655,6 +655,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/berlin/proprietary/vendor/firmware/evass.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mdt \
     vendor/motorola/berlin/proprietary/vendor/firmware/mot_bu63169.coeff:$(TARGET_COPY_OUT_VENDOR)/firmware/mot_bu63169.coeff \
     vendor/motorola/berlin/proprietary/vendor/firmware/mot_bu63169.prog:$(TARGET_COPY_OUT_VENDOR)/firmware/mot_bu63169.prog \
+    vendor/motorola/berlin/proprietary/vendor/firmware/msbtfw10.tlv:$(TARGET_COPY_OUT_VENDOR)/firmware/msbtfw10.tlv \
+    vendor/motorola/berlin/proprietary/vendor/firmware/msbtfw11.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/msbtfw11.mbn \
+    vendor/motorola/berlin/proprietary/vendor/firmware/msbtfw11.tlv:$(TARGET_COPY_OUT_VENDOR)/firmware/msbtfw11.tlv \
+    vendor/motorola/berlin/proprietary/vendor/firmware/msnv10.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/msnv10.bin \
+    vendor/motorola/berlin/proprietary/vendor/firmware/msnv11.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/msnv11.bin \
     vendor/motorola/berlin/proprietary/vendor/firmware/st21nfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st21nfc_fw.bin \
     vendor/motorola/berlin/proprietary/vendor/firmware/st21nfc_fw7.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/st21nfc_fw7.bin \
     vendor/motorola/berlin/proprietary/vendor/firmware/stmicro-csot-fts3639-21120227-de141027-berlin.ftb:$(TARGET_COPY_OUT_VENDOR)/firmware/stmicro-csot-fts3639-21120227-de141027-berlin.ftb \
